@@ -1,0 +1,1008 @@
+// automatically written on exit, DO NOT MODIFY
+// delete this file to have data/defaults.cfg overwrite these settings
+// modify settings in game, or put settings in autoexec.cfg to override anything
+
+name "BLAPCK"
+
+loadcrosshair "data\crosshair.png" 0
+loadcrosshair "data\teammate.png" 1
+loadcrosshair "data\hit.png" 2
+
+ammohud 1
+animationinterpolationtime 150
+aniso 0
+applydialog 1
+aspect 0.0
+ati_skybox_bug 0
+autoauth 1
+autocompactvslots 256
+autorepammo 1
+autosortservers 1
+autoupdateservers 1
+basenumbers 0
+bilinear 1
+blobdyntris 4096
+blobfadehigh 8
+blobfadelow 8
+blobheight 32
+blobintensity 60
+blobmargin 1
+blobs 1
+blobstattris 4096
+blood 1
+blurdepthfx 0
+blurdepthfxsigma 50
+blurglare 4
+blurglaresigma 50
+blurshadowmap 1
+blursmsigma 100
+bumpmodels 1
+bypassheightmapcheck 0
+capturetether 1
+caustics 1
+chainsawhudgun 1
+clockerror 1000000
+clockfix 0
+compresspng 9
+compresstga 1
+confade 30
+confilter 15615
+connectname "85.214.29.156"
+connectport 20000
+conscale 0.33
+consize 5
+crosshaircolors 1
+crosshairfx 1
+crosshairsize 15
+cursorsize 30
+damagecompass 0
+damagecompassalpha 25
+damagecompassfade 1000
+damagecompassmax 200
+damagecompassmin 25
+damagecompasssize 30
+damagescreen 1
+damagescreenalpha 90
+damagescreenfactor 10
+damagescreenfade 1000
+damagescreenmax 100
+damagescreenmin 10
+deadpush 2
+deathscore 0
+decalfade 10000
+decals 1
+depthfx 1
+depthfxblend 16
+depthfxemuprecision 1
+depthfxfilter 0
+depthfxfpscale 4096
+depthfxpartblend 8
+depthfxparts 1
+depthfxrect 1
+depthfxscale 64
+depthfxsize 10
+dynlightdist 1024
+emitmillis 17
+envmapmodels 1
+envmapsize 7
+explosion2d 0
+fewparticles 100
+ffdynlights 5
+ffshadowmapdist 1024
+filltjoints 1
+flarecutoff 1000
+flaresize 100
+forceplayermodels 0
+fov 100
+fpdepthfx 1
+fpshadowmap 0
+fullbrightmodels 0
+fullconfilter 61439
+fullconsize 75
+gamma 100
+glare 1
+glarescale 1.0
+glaresize 8
+glassenv 1
+glowmodels 1
+gpuskel 1
+grass 1
+grassdist 256
+grassheight 4
+grassstep 2.0
+grasstaper 0.2
+gui2d 1
+guiautotab 16
+guiclicktab 0
+guifadein 1
+guifollow 1
+guipushdist 4
+guisens 1.0
+hidedead 0
+highlightscore 1
+hitcrosshair 425
+hitsound 0
+hudgun 1
+hudgunsdir ""
+hudgunsway 1
+hwmipmap 0
+invmouse 0
+lightmodels 1
+lightthreads 0
+matskel 0
+maxbarreldebris 10
+maxcon 200
+maxdebris 25
+maxdecaldistance 512
+maxdecaltris 1024
+maxdynlights 5
+maxfps 30
+maxhistory 1000
+maxmodelradiusdistance 200
+maxparticledistance 1024
+maxparticles 4000
+maxparticletextdistance 128
+maxradarscale 1024
+maxreflect 1
+maxroll 0
+maxservpings 10
+maxsoundradius 10000
+maxsoundsatonce 7
+maxtexsize 256
+maxtrail 500
+menuautoclose 120
+menudistance 40
+miniconfade 30
+miniconfilter 768
+miniconsize 5
+miniconwidth 40
+minimapalpha 1.0
+minimapsize 8
+minradarscale 384
+motionblur 0
+motionblurmillis 1
+motionblurscale 0.95
+mouseaccel 0.0
+movieaccel 1
+moviefps 24
+movieh 240
+movieminquality 0.0
+moviesound 1
+moviesync 0
+moview 320
+mumble 1
+musicvol 0
+muzzleflash 1
+muzzlelight 1
+nompedit 0
+oqdynent 1
+outlinecolour 0
+outlinemeters 0
+particleglare 2
+particlesize 100
+particletext 1
+playermodel 1
+pvsthreads 0
+radarteammates 1
+ragdoll 1
+ragdollfade 1000
+ragdollmillis 0
+reducefilter 1
+reflectdist 2000
+reflectmms 1
+reflectsize 8
+savebak 2
+scoreboard2d 1
+screenshotdir ""
+screenshotformat 2
+searchlan 0
+sensitivity 3.0
+sensitivityscale 1.0
+servpingdecay 15000
+servpingrate 5000
+shaderdetail 3
+shadowmap 1
+shadowmapbias 5
+shadowmapdist 256
+shadowmapintensity 40
+shadowmappeelbias 20
+shadowmapprecision 0
+shadowmapradius 96
+shadowmapsize 9
+showclientnum 0
+showconnecting 0
+showfps 1
+showfpsrange 0
+showmat 0
+showmodeinfo 1
+showparticles 1
+showping 1
+showpj 0
+showservinfo 1
+showspectators 1
+skyboxglare 1
+slowmosp 0
+smoothdist 32
+smoothmove 75
+soundvol 100
+sparklyfix 0
+spawnwait 0
+teamcolorfrags 1
+teamcolortext 1
+teamcrosshair 1
+teamhudguns 1
+teamskins 1
+texcompress 1024
+texcompressquality -1
+texgui2d 1
+texguiheight 8
+texguitime 25
+texguiwidth 12
+texreduce 0
+trilinear 1
+undomegs 5
+usenp2 0
+vertwater 1
+wallclock 0
+wallclock24 0
+wallclocksecs 0
+waterenvmap 1
+waterfade 1
+waterfallenv 1
+waterfallrefract 1
+waterlod 1
+waterreflect 1
+waterrefract 1
+watersubdiv 2
+zoomaccel 0.0
+zoomautosens 1
+zoomfov 35
+zoominvel 250
+zoomoutvel 100
+zoomsens 1.0
+
+bind "0" [nextweapon loop 1]
+bind "1" [bind MOUSE2 togglezoom]
+bind "2" [say "*BOOP*"]
+bind "3" [kill]
+bind "4" [sound (rnd 60)]
+bind "5" [stopfap]
+bind "6" [setweapon PI]
+bind "7" [setweapon FI]
+bind "8" [jump ; if (= (getmode) 1) [ if (= $flypow 1 ) [ edittoggle;sleep 5 [clearents particles ] ;sleep 5 [ newent particles 9 278 3 (rnd 0xFFF) 2000 ] ;sleep 5 [ edittoggle ] ] ]]
+bind "9" [thirdperson (= $thirdperson 0); if (= $thirdperson 0) [echo thirdperson OFF] [ echo thirdperson ON]]
+bind "A" [runl]
+bind "B" [showgui "Autotk"]
+bind "BACKQUOTE" [saycommand /]
+bind "D" [runr]
+bind "DELETE" [delbot]
+bind "DOWN" [backward]
+bind "E" [edittoggle]
+bind "EQUALS" [runf = [ forward ] ; runb = [ backward ] ; runl = [ left ] ; runr = [ right ]]
+bind "ESCAPE" [togglemainmenu]
+bind "F" [igniteself]
+bind "F1" [paused (= $paused 0)]
+bind "F11" [toggleconsole]
+bind "F12" [screenshot]
+bind "F7" [if (= (cleargui) 0) [showgui zombie]]
+bind "G" [togglezoom]
+bind "I" [taunt]
+bind "INSERT" [addbot]
+bind "KP1" [jump]
+bind "KP2" [jump]
+bind "KP3" [jump]
+bind "KP4" [jump]
+bind "KP5" [jump]
+bind "KP6" [jump]
+bind "KP7" [jump]
+bind "KP8" [jump]
+bind "KP9" [jump]
+bind "KP_MINUS" [conskip -5]
+bind "KP_PLUS" [conskip 5]
+bind "LCTRL" [startfap ;sleep 1 [ masterbate ]]
+bind "LEFT" [left]
+bind "LEFTBRACKET" [bind "SPACE" [ jump; if (= (getmode) 1) [ if (= $flypow 1) [edittoggle;sleep 5 [edittoggle ] ] ] ]]
+bind "M" [showcustommaps]
+bind "MINUS" [runf = [ forward ;sleep 50 [ runf ] ] ; runb = [ backward ;sleep 50 [runb ] ] ; runl = [ left ;sleep 50 [ runl ] ] ; runr = [ right ;sleep 50 [ runr ] ]]
+bind "MOUSE1" [attack]
+bind "MOUSE2" [togglezoom]
+bind "MOUSE3" [weapon]
+bind "MOUSE4" [universaldelta 1]
+bind "MOUSE5" [universaldelta -1]
+bind "MOUSE6" [kill]
+bind "N" [cloudy]
+bind "O" [authkey XXXXXX]
+bind "P" [showgui "^f1Portal Gun"]
+bind "PAUSE" [paused (= $paused 0)]
+bind "Q" [igniteself]
+bind "R" [if (= (getmode) 1) [
+edittoggle
+sleep 1 [
+gotosel
+edittoggle
+]
+] [
+dropflag
+]]
+bind "RCTRL" [stopfap]
+bind "RETURN" [saycommand]
+bind "RIGHT" [right]
+bind "RIGHTBRACKET" [bind "SPACE" [ jump ]]
+bind "RSHIFT" [dropflag]
+bind "S" [runb]
+bind "SLASH" [saycommand /]
+bind "SPACE" [jump]
+bind "TAB" [showscores]
+bind "U" [colorizesky]
+bind "UP" [forward]
+bind "W" [runf]
+bind "X" [showgui "^f1Seeker"]
+bind "Y" [sayteamcommand]
+bind "Z" [if 1 if 0 edittoggle;sleep 5 [ clearents particles ] ;sleep 5 [ edittoggle ]]
+specbind "MOUSE1" [nextfollow]
+specbind "MOUSE2" [nextfollow -1]
+specbind "MOUSE3" [follow]
+specbind "P" [showgui "^f1Portal Gun"]
+specbind "SPACE" [follow]
+editbind "0" [allfaces (= $allfaces 0); if (= $allfaces 0) [echo allfaces OFF] [ echo allfaces ON]]
+editbind "1" [domodifier 15]
+editbind "2" [domodifier 12]
+editbind "3" [domodifier 13]
+editbind "4" [domodifier 14]
+editbind "5" [hidehud (= $hidehud 0); if (= $hidehud 0) [echo hidehud OFF] [ echo hidehud ON]]
+editbind "6" [entselsnap (= $entselsnap 0); if (= $entselsnap 0) [echo entselsnap OFF] [ echo entselsnap ON]]
+editbind "7" [outline (= $outline 0); if (= $outline 0) [echo outline OFF] [ echo outline ON]]
+editbind "8" [wireframe (= $wireframe 0); if (= $wireframe 0) [echo wireframe OFF] [ echo wireframe ON]]
+editbind "A" [runl]
+editbind "B" [domodifier 9]
+editbind "C" [editcopy]
+editbind "COMMA" [domodifier 10; onrelease entautoview]
+editbind "DELETE" [editdel]
+editbind "F" [domodifier 2]
+editbind "F2" [showtexgui]
+editbind "F3" [if (cleargui 1) [] [showentgui]]
+editbind "F4" [if (cleargui 1) [] [showgui mapmodels]]
+editbind "F5" [savemap]
+editbind "F6" [notepad (mapcfgname)]
+editbind "F9" [echo (getseltex) : (gettexname (getseltex))]
+editbind "G" [domodifier 1]
+editbind "H" [if $hmapedit [ editface 1 -1 ] [ hmapedit 1 ]]
+editbind "I" [redo]
+editbind "J" [gotosel]
+editbind "K" [calc]
+editbind "KP0" [setblendpaintmode 0]
+editbind "KP1" [setblendpaintmode 1]
+editbind "KP2" [setblendpaintmode 2]
+editbind "KP3" [setblendpaintmode 3]
+editbind "KP4" [setblendpaintmode 4]
+editbind "KP5" [setblendpaintmode 5]
+editbind "KP8" [scrollblendbrush -1]
+editbind "KP9" [scrollblendbrush 1]
+editbind "KP_ENTER" [entselect insel]
+editbind "L" [fullbright (= $fullbright 0); if (= $fullbright 0) [echo fullbright OFF] [ echo fullbright ON]]
+editbind "LALT" [hmapedit  1; onrelease [ hmapedit  0]]
+editbind "LCTRL" [passthrough  1; onrelease [ passthrough  0]]
+editbind "LSHIFT" [editcut]
+editbind "M" [showmat (= $showmat 0); if (= $showmat 0) [echo showmat OFF] [ echo showmat ON]]
+editbind "MINUS" [newent "particles" 9 284 23 0x048]
+editbind "MOUSE1" [if $blendpaintmode [paintblendmap] [editdrag]]
+editbind "MOUSE2" [if $blendpaintmode [rotateblendbrush] [editextend]]
+editbind "MOUSE3" [selcorners]
+editbind "MOUSE6" [selcorners]
+editbind "N" [selentfindall]
+editbind "O" [domodifier 6]
+editbind "P" [showgui "^f1Portal Gun"]
+editbind "PERIOD" [selentedit]
+editbind "Q" [domodifier 3]
+editbind "R" [domodifier 4]
+editbind "SLASH" [skyboxcolour 100 100 100 ; fogdomemax 1 ; fogdomeheight 0 ; fogcolour 1 1 1  ; fog 500]
+editbind "SPACE" [cancelsel]
+editbind "T" [saycommand]
+editbind "U" [undo; passthroughsel 0]
+editbind "V" [editpaste]
+editbind "X" [editflip]
+editbind "Y" [domodifier 6]
+editbind "Z" [undo; passthroughsel 0]
+
+"//dummy" = [ say "8ULL5H17" ]
+GETMAP = [getmap]
+RECONNECT = [reconnect]
+_cd_tmp = [ if (= $killerinfo 0) [ ] [ say $killermsg ] ]
+_cf_tmp = [ if (= $finderinfo 0) [] [say $findermsg  ] ]
+_cl_sht = [ 
+  if (= $portalon 1) [ 
+	if (mode 1) [ 
+		edittoggle 
+		sleep 5 [ 
+			if (mod $timesdone 2) [ 
+				
+				md 
+				timesdone = (+ $timesdone 1) 
+				sleep 5 [ edittoggle ] 
+			] [ 
+				
+				mt 
+				timesdone = (+ $timesdone 1) 
+				sleep 5 [ edittoggle ] 
+				
+			]
+		]
+
+	]
+
+	]
+ 
+]
+_tk_tmp = [ if (= $number_to_change 1) [say $text_to_say; change_valtk; echo_tk][sayteam $text_to_say; change_valtk; echo_tk ]; if (= $numbertk 5) [spectate_info] [ ] ]
+activateothers = [ exec zombie.cfg]
+aebots = [ setteam 128 evil ; setteam 129 evil ; setteam 130 evil ; setteam 131 evil ; setteam 132 evil ; setteam 133 evil ; setteam 134 evil ; setteam 135 evil ; setteam 136 ; setteam 137 evil ]
+aebotsone = [ setteam 128 evil ; setteam 129 evil ; setteam 130 evil ; setteam 131 evil ; setteam 132 evil ; setteam 133 evil ; setteam 134 evil ; setteam 135 evil ; setteam 136 ; setteam 137 evil ]
+aebotsthree = [ setteam 148 evil ; setteam 149 evil ; setteam 150 evil ; setteam 151 evil ; setteam 152 evil ; setteam 153 evil ; setteam 154 evil ; setteam 155 evil ; setteam 156 ; setteam 157 evil ]
+aebotstwo = [ setteam 138 evil ; setteam 139 evil ; setteam 140 evil ; setteam 141 evil ; setteam 142 evil ; setteam 143 evil ; setteam 144 evil ; setteam 145 evil ; setteam 146 ; setteam 147 evil ]
+agbots = [ setteam 128 good loop 32 ]
+apofight = [ tenbots ; tenbots ; tenbots ; sleep 5 [ aebotsone ; aebotstwo ; aebotsthree ] ]
+bla = [
+msg = [ if (= $numargs 3) [ if (= $arg3 1) [msg1 $arg1 $arg2] [msg2 $arg1 $arg2] ] [echo "^f3Usage: ^f0/msg [cn] [message] [style (1,2)] "] ] ]
+botmatchcount = [0]
+botmatchmaxskill = [50]
+calc = [say "I am calcing the lights..."; calclight; say "...Done."]
+cancelpaste = [1]
+capcataclysm = [ say "FOOM!!!" ; cloudy ; workdestroy ;destroysky ; fog 35 ; sleep 300 [ say "Disaster has struck!" ; faildestroy ; fog 500 ] ]
+cataclysm = [ cloudy ; workdestroy ;destroysky ; fog 35 ; sleep 250 [ faildestroy ; fog 500 ] ]
+change_valtk = [numbertk = (+ $numbertk 1)]
+chasepart = [followpart ;sleep 1 [ chasepart ] ]
+check = " loop i (listlen (listclients)) [ if (= (isspectator $i) 0) [ echo @i ] [ echo NOT @i ] ] "
+checkfraghide = [sleep $hidetime [ if (= (getfrags) $fragcount) [say $hidemsg1][] ] ]
+clearportals = [
+		if (= $editing 1) [ 
+		entfind particles 4 309 10 * 
+		entfind teleport (- $count 1) -1 
+		entfind teleport $count -1
+		entfind teledest * (- $tcount 1) 1 
+		entfind teledest * $count 1
+		delent 
+		] [ 
+		edittoggle 
+		entfind particles 4 309 10 * 
+		entfind teleport (- $count 1) -1 
+		entfind teleport $count -1
+		entfind teledest * (- $tcount 1) 1 
+		entfind teledest * $count 1
+		delent 
+		edittoggle 
+		]	
+		
+echo "All portals have been cleared." 
+]
+cloudy = [ fogdomemax 1 ;fogdomeheight .1 ;fog 1000 ;cloudlayer caustics/caust05 ;cloudfade 1 ;cloudalpha .4 ;cloudscrolly .02 ;cloudscrollx .05 ;cloudbox skyboxes/evilsky ;cloudboxalpha .5 ;spinclouds 4 ;skyboxcolour 200 200 200 ;spinsky -2 ]
+colorizesky = [ skyboxcolour (rnd 255) (rnd 255) (rnd255);cloudcolour (rnd 255) (rnd 255) (rnd 255);cloudboxcolour (rnd 255) (rnd 255) (rnd 255);fogcolour (rnd 255) (rnd 255) (rnd 255);fogdomecolour $arg4 ]
+commandbuf = [er]
+count = [0]
+count1 = [ sleep 10000 [ say "^f3 1." ] ]
+count12 = [ sleep 10000 [ say "^f4 12 " ] ]
+count2 = [ sleep 10000 [ say "^f4 Two" ] ]
+count3 = [ sleep 10000 [ say "^f4 3" ] ]
+count6 = [ sleep 10000 [ say "^f4 6!" ] ]
+count9 = [ sleep 10000 [ say "^f4 9" ] ]
+countcapcataclysm = [ count12 ; sleep 10000 [ count9 ; sleep 10000 [ count6 ; sleep 10000 [ count3 ; sleep 10000 [ count2 ; sleep 10000 [ count1 ; sleep 20000 [ capcataclysm ] ] ] ] ] ] ]
+countnum = [30]
+customh = [900]
+custommaps = [07 10G 111 128 1stcdm 48075 8075desert 8075freebuild 818 Battle_Block Biohazard Birko Bucco BucketCreation Catastrophe Chibi-Land! Chibi-Land3 Color-Coded Crackers FREE-HACKS Haywyre Hill Infernal Infernal Jukai Keto's_Island LITTLE-RACE-37 Layout Midnight Overload R2 R3 Relax Rust_Bucket Sleepy_Hill Smolder Synthetic TXpxstrxh4Ll Teriyaki-Castle The_Spiral XSkittelz Xibalba Zombie2 Zunlab Zync beed cav3 cheery chibi-land1 chibi_land chibiland chibitest curve dea01 diptest dodgeball1 dreamstep2 faiapaip faiapaip fap firepipe font font friday gamzee getmap_3275209 getmap_4323985 glass-candy hadenrealm house house hr1 jumpskillslvl k_rpg1 karkat kettou learn.IT nobiax oldcity parallaxfun particle_school particlefever peasant phaaze playerlauncher pool rpg_01 sauerbraten seijinyo shader-tutorial shett skybox1 snowstyle1 space-station sparky4 sparky4 springside squints static strange test tetra-block textest tripland trostlos untitled venom warptex zombieslayer]
+customw = [1600]
+defaultmodifier = [0]
+delta_edit_0 = [if $blendpaintmode [scrollblendbrush $arg1] [editfacewentpush $arg1 1]]
+delta_edit_1 = [ nodebug [ gridpower (+ $arg1 $gridpower) ] ]
+delta_edit_10 = [ entautoview $arg1 ]
+delta_edit_11 = [ entproperty 0 (* $arg1 $multiplier) ]
+delta_edit_12 = [ entproperty 1 (* $arg1 $multiplier) ]
+delta_edit_13 = [ entproperty 2 (* $arg1 $multiplier) ]
+delta_edit_14 = [ entproperty 3 (* $arg1 $multiplier) ]
+delta_edit_15 = [ vdelta [voffset (* $arg1 $multiplier2) 0] ]
+delta_edit_16 = [ vdelta [voffset 0 (* $arg1 $multiplier2)] ]
+delta_edit_17 = [ vdelta [vrotate $arg1] ]
+delta_edit_18 = [ vdelta [vscale (if (< $arg1 0) 0.5 2)] ]
+delta_edit_2 = [ editfacewentpush $arg1 0 ]
+delta_edit_3 = [ editfacewentpush $arg1 2 ]
+delta_edit_4 = [ if $blendpaintmode [rotateblendbrush $arg1] [editrotate $arg1] ]
+delta_edit_5 = [ entproperty 0 $arg1 ]
+delta_edit_6 = [ edittex $arg1 ]
+delta_edit_9 = [ selectbrush $arg1 ]
+delta_game_0 = [ if (= $arg1 1) [ weapon 2 3 5 4 1 6 0 ] [ weapon 4 1 6 2 3 5 0 ] ]
+destcolour = [0xC0FF]
+destroysky = [ ]
+disablechase = [ chasepart = [followpart ;sleep 1 [ casepart ] ] ]
+domodifier = [ modifier = $arg1; onrelease [ modifier = $defaultmodifier ] ]
+doublejump = [ jump;floatspeed 100 ; if (= (getmode) 1) [ if (= $flypow 1 ) [edittoggle ;sleep 5 [edittoggle ] ] ] ]
+echo_tk = [echo "^f3You have teamkilled^f4 " $numbertk "^f3 times! The penalty occurs at ^f45 ^f3times..."]
+enablechase = [ chasepart = [followpart ;sleep 1 [ chasepart ] ] ]
+entcopybuf = [mapmodel 149 3 0 0 0]
+entguiattr0 = [0]
+entguiattr1 = [800]
+entguiattr2 = [25]
+entguiattr3 = [0]
+entguiattr4 = [0]
+entguitype = [particles]
+errhide = [ echo "Please first type /hideon = 1 and /countnum = # for the script to work. Then type /starthide. Your current counting number is " $countnum "."]
+faildestroy = [ destroysky = [ ] ]
+finderinfo = [0]
+findermsg = "I finally found someone! :)"
+fly = [ if (= $flypow 1) [ echo "Type ^f5/flypow = 0^f8 to enable fly. Afterwards type ^f5/fly^f8. Script made by ^f1Caja"] [echo "Type ^f5/flypow = 1^f8 to disable fly.";  edittoggle; sleep 1 [flyrepeat ] ] ]
+flyhelp = [echo "^f8To use the fly script just type ^f3/fly^f8. ^f8To start it type ^f3/flypow = 0^f8, then ^f3/fly^f8. To end it type ^f3/flypow = 1^f8."]
+flypow = [1]
+flyrepeat = [ if (= $flypow 1) [] [edittoggle; sleep 1 [flyrepeat ] ] ]
+followpart = "nearestent ;sleep 5 [ entautoview "
+frostself = [ if (= (getmode) 1) [ if (= $flypow 1 ) [ edittoggle;sleep 5 [ clearents particles ] ;sleep 5 [ newent particles 13 278 3 (rnd 0xFFF) 2000 ] ;sleep 5 [ edittoggle ] ] ] ]
+frostselfjump = [ jump; if (= (getmode) 1) [ if (= $flypow 1 ) [ edittoggle;sleep 5 [ clearents particles ] ;sleep 5 [ newent particles 13 278 3 (rnd 0xFFF) 2000 ] ;sleep 5 [ edittoggle ] ] ] ]
+fs = [floatspeed (* (+ (div (- $arg1 5) 3) 5) 3)]
+g3tm4p = [ ]
+gameflux = [ ]
+get = [ if (= (mapname) "")[ say "Getting the map *Untitled*..." ][ say Getting the map * (mapname) * ]; getmap ]
+ghostparttrail = [if]
+givescript = [ maptitle (format "%1 = [ %2 ]" $arg1 $arg2); say "^f8Type ^f3/do $maptitle ^f8for the script^f5"$arg1 "^f8(Distributed by ^f1" (getname)"^f8.)"; ]
+glarepreset = [1]
+gp = " if $numargs [ga = $arg1]; if $editing [sleep 1 [goto @arg1; gp $ga]]  "
+gpedit = " if $numargs [ga = $arg1]; if (= $gppow 1) [ sleep 1 [goto @arg1; gpedit $ga]]  "
+gphelp = [echo "To use gp type in ^f3/gp cn^f1 where cn is the channel number of the person. If you do not know type ^f3/showclientnum 1^f1 You can also type ^f3/gp ^f1to go to your last followed. To exit, just press e. "]
+gpspec = " if $numargs [ga = $arg1]; sleep 1 [goto @arg1; gpspec $ga]  "
+guirolloveraction = [updatefrommaster]
+guirolloverimgaction = [showgui crosshair]
+guirolloverimgpath = [data\crosshair.png]
+guirollovername = [update from master server]
+hadselection = [0]
+hidemsg1 = [Omfg I still haven't found any of you guys! T_T]
+hideon = [0]
+hidetime = [180000]
+honkname = [name BLAPCK]
+i = [26]
+igniteself = [ if (= (getmode) 1) [ if (= $flypow 1 ) [ edittoggle;sleep 5 [clearents particles ] ;sleep 5 [ newent particles 9 278 3 (rnd 0xFFF) 2000 ] ;sleep 5 [ edittoggle ] ] ] ]
+igniteselfjump = [ jump ; if (= (getmode) 1) [ if (= $flypow 1 ) [ edittoggle;sleep 5 [clearents particles ] ;sleep 5 [ newent particles 9 278 3 (rnd 0xFFF) 2000 ] ;sleep 5 [ edittoggle ] ] ] ]
+junk = [junk1; sleep 10000 [junk2; sleep 10000 [junk3; sleep 10000 [junk4; sleep 10000 [junk5; sleep 10000 [junk6; sleep 10000 [junk7; sleep 10000]]]]]]]
+junk1 = [var = (rndo (listclients 1));var2 = (rndo (listdel (listclients 1) $var)); say (getclientname $var)"was rick rolled with H1N1 influenza by" (getclientname $var2)"who then stuffs the corpse and uses it for voodoo practice." ]
+junk2 = [var = (rndo (listclients 1));var2 = (rndo (listdel (listclients 1) $var));say (getclientname $var)"was stepped on with hot soldering iron by" (getclientname $var2)"who then proceeds to hump the corpse." ]
+junk3 = [var = (rndo (listclients 1));var2 = (rndo (listdel (listclients 1) $var)); say (getclientname $var)"was eviscerated with a bag of dicks by" (getclientname $var2)"who then steals the victim's leather pants." ]
+junk4 = [var = (rndo (listclients 1));var2 = (rndo (listdel (listclients 1) $var)); say (getclientname $var)"was robbed of virginity with an HIV postiive blood sample by" (getclientname $var2)"who then uses the victim's remains as a makeshift chair." ]
+junk5 = [var = (rndo (listclients 1));var2 = (rndo (listdel (listclients 1) $var)); say (getclientname $var)"was turned into a tubgirl with their own flag by" (getclientname $var2)"who was anatomically recalculated." ]
+junk6 = [var = (rndo (listclients 1));var2 = (rndo (listdel (listclients 1) $var)); say (getclientname $var)"was forced to partake in a gay orgy with the Reaper's Scythe by" (getclientname $var2)"who then proclaims himself to be justice." ]
+junk7 = [var = (rndo (listclients 1));var2 = (rndo (listdel (listclients 1) $var)); say (getclientname $var)"was tentacle raped with an iron ball and chain by" (getclientname $var2)"who mistook the victim for UVE Boli." ]
+keybind = "^n        newbinds = (concatword ^"newbinds^" $arg1)^n        do [^n            @newbinds = (searchbinds [@@arg1])^n            guikeyfield @newbinds -8 [^n                oldbinds = (searchbinds [@@@arg1])^n                loop i (listlen $oldbinds) [bind (at $oldbinds $i) ^"^"]^n                loop i (listlen $@@newbinds) [bind (at $@@@newbinds $i) [@@@@arg1]]^n            ]^n        ]^n"
+killcore = [1]
+killerinfo = [0]
+killermsg = "Hey! No cheating :("
+l = [26]
+masterbate = [ ]
+md = [ 
+gridpower 0 
+if (= $portal2w 0) [
+newent teledest $tcount 1 
+newent particles 4 309 10 $destcolour 
+tcount = (+ $tcount 1) 
+] [
+newent teledest $tcount 1
+newent particles 4 309 10 $destcolour
+tcount = (+ $tcount 1)
+newent teleport $count -1
+]
+]
+mepass1 = [ setmaster "1qaz0okm@meservers.tk" ]
+mm = [0]
+mmidx = [185]
+mmname = [yves_allaire/e6/e6fanblade/vertical]
+modifier = [0]
+morphing = [ playermodel (rnd 4) ]
+msg1 = [ say (getclientname $arg1) : $arg2 ]
+msg2 = [ say (format "@%1 %2" (getclientname $arg1) $arg2) ]
+mt = [  
+gridpower 0 
+	if (= $count 0) [] [ 
+		entfind particles 4 309 10 * 
+		entfind teleport (- $count 1) -1 
+		entfind teleport $count -1
+		entfind teledest * (- $tcount 1) 1 
+		entfind teledest * $count 1
+		delent 
+	]
+	
+	if (= $portal2w 0) [
+	newent teleport $count -1 
+	newent particles 4 309 10 $portalcolour 
+	count = (+ $count 1) 
+	] [
+	newent teleport $count -1
+	newent particles 4 309 10 $portalcolour
+	count = (+ $count 1)
+	newent teledest (+ $tcount 1) 1
+
+	]
+]
+multiplier = [1]
+multiplier2 = [16]
+n = [delbot]
+n1 = [ if $numargs [nn = $arg1]; say Nice Shot (getclientname $nn) ! ]
+newbinds = [newbindsquasiattack]
+newbinds0 = [UP]
+newbinds1 = [DOWN]
+newbinds10 = [F11]
+newbinds11 = [F12]
+newbinds12 = [E]
+newbinds13 = [7]
+newbinds19 = [6]
+newbinds2 = [LEFT]
+newbinds20 = [MOUSE3]
+newbinds21 = [MOUSE4]
+newbinds22 = [MOUSE5]
+newbinds23 = [RSHIFT]
+newbinds24 = [INSERT]
+newbinds25 = [DELETE]
+newbinds3 = [RIGHT]
+newbinds4 = [KP1 KP2 KP3 KP4 KP5 KP6 KP7 KP8 KP9 SPACE]
+newbinds5 = [MOUSE1]
+newbinds6 = [G MOUSE2]
+newbinds7 = [RETURN]
+newbinds8 = [Y]
+newbinds9 = [TAB]
+newbindsquasiattack = [Q]
+newguisens = [1.0]
+newname = [BLAPCK]
+newsens = [3.0]
+number_to_change = [0]
+numbertk = [0]
+oldbinds = [SPACE]
+oldfrag = [160]
+onclientdeath = "^n^t_cd_tmp = $arg1^n^tif (!=s $_cd_tmp ^"^") [^n^t^tsleep 5 [^n^t^t^tif (&& [> (getdeaths) @@(getdeaths)] [= (getfrags) @@(getfrags)]) [_cd_tmp]^n^t^t^tonclientdeath $_cd_tmp^n^t^t]^n^t]^n"
+onclientfrag = "^n^t_cf_tmp = $arg1^n^tif (!=s $_cf_tmp ^"^") [^n^t^tsleep 5 [^n^t^t^tif (&& [> (getfrags) @@(getfrags)] [=s (mapname) @@(mapname)]) [_cf_tmp]^n^t^t^tonclientfrag $_cf_tmp^n^t^t]^n^t]^n"
+onclientshoot = [ 
+	_cl_sht = $arg1 
+	if (!=s $_cl_sht "") [ 
+		oldfrag = (gettotalshots) 
+		sleep 5 [ 
+			if (> (gettotalshots) $oldfrag) [ 
+				
+				_cl_sht 
+			]
+			onclientshoot $_cl_sht 
+		]
+	]
+]
+onteamkill = "^n^t_tk_tmp = $arg1^n^tif (!=s $_tk_tmp ^"^") [^n^t^tsleep 5 [^n^t^t^tif (&& [m_teammode (getmode)] [< (getfrags) @@(getfrags)] [= (getdeaths) @@(getdeaths)] [=s (mapname) @@(mapname)]) [_tk_tmp]^n^t^t^tonteamkill $_tk_tmp^n^t^t]^n^t]^n"
+passthroughcube_bak = [1]
+pmidx = [1]
+portal2w = [0]
+portal_b = [15]
+portal_g = [0]
+portal_r = [15]
+portalcolour = [0x5F90]
+portalon = [0]
+portals_b = [15]
+portals_g = [0]
+portals_r = [15]
+ppow = [1]
+pprint = [if (= $ppow 1)[echo "Type ^f5/ppow = 0^f8 to enable particle spam. Afterwards type ^f5/pprint^f8"][pprint2]]
+pprint2 = [echo "^f8Made by ^f1Phoenix + Bucco^f8. Remove them by pressing b in edit. Type ^f5/ppow=1^f8 to disable particle spam."; editbind b "clearents particles"; pprint3 ]
+pprint3 = [ say "Particle Spamming in 3"; sleep 1000 [say "Particle Spamming in 2"; sleep 1000 [say "Particle Spamming in 1"]]; sleep 5000 [pspam] ]
+print = [if (= $spampow 0) [echo "Type /spampow = 1 first!"][ echo "^f8Made by ^f1Bucco^f8."; say "Spamming in 3"; sleep 1000 [say "Spamming in 2"; sleep 1000 [say "Spamming in 1"]]; sleep 5000 [spam $test] ] ]
+pspam = [if (= $ppow 1)[] [newent particles 3 0 0x5F90 0 0; sleep 1 [pspam] ] ]
+q = [showgui quasimodo]
+qd = [showgui quasimodo_detect]
+qg = [0]
+qr = [255]
+quasiattackassist = [1]
+quasiattackassisttime = [1]
+quasiattackcylinderheight = [100]
+quasiattackcylinderlock = [1]
+quasiattackcylinderradius = [100]
+quasiattacklostunlock = [1]
+quasiattacknoaim = [1]
+quasiattackon = [1]
+quasiattackpitch = [180]
+quasiattackshoot = [1]
+quasiattackyaw = [360]
+quasicolorshots = [1]
+quasidangerradius = [100]
+quasigunkickback = [1000]
+quasigunkickbackchainsaw = [24]
+quasigunkickbackenabled = [1]
+quasigunmental = [1]
+quasinameplayers = [1]
+quasiradarhackspawn = [1]
+quasispeedhackenabled = [1]
+quasispeedhackspeed = [20]
+quasithirdperson = [1]
+quasithirdpersonalpha = [98]
+quasiwallhackalpha = [50]
+quasiwallhackflags = [1]
+quasiwallhackteam = [1]
+random = [ if (= $randomp 1) [ if (= $numargs 1) [if (= (getmode) 1) [time = $arg1; edittoggle; sleep 1 [gotosel; edittoggle; sleep $time [ random $time ] ] ] ] [echo "Fail at life!" ]  ]]
+removeammoa = [clearents grenades; sleep 1000 [clearents riflerounds; sleep 1000 [clearents rockets; sleep 1000 [removeammob ]]]]
+removeammob = [clearents bullets; sleep 1000 [clearents shells; sleep 1000 [clearents health; sleep 1000 [removeammoc ]]]]
+removeammoc = [clearents cartridges; sleep 1000 [clearents yellowarmour; sleep 1000 [clearents greenarmour; sleep 1000 [removeammod ]]]]
+removeammod = [clearents healthboost; sleep 1000 [clearents quaddamge; sleep 1000 [clearents jumppad; sleep 1000 [echo "Clearents is now done."]]]]
+removeent = [echo "Please stay in coop mode for the next 60 seconds until you get the done message."; sleep 10000 [echo "Starting removal of ents.";  clearents particles; sleep 1000 [clearents mapmodel; sleep 1000 [removetele ] ] ] ]
+removetele = [clearents teleport; sleep 1000 [clearents teledest; sleep 1000 [clearents light; sleep 1000 [removeammoa ]]]]
+repeatcount = [if (= $countnum 0)[say "Ready or not, here I come!"][ say $countnum; countnum = (- $countnum 1); sleep 1000 [repeatcount] ] ]
+rndo = [at $arg1 (rnd (listlen $arg1))]
+runb = [ backward ]
+runf = [ forward ]
+runl = [ left ]
+runr = [ right ]
+seeall = " loop i (listlen (listclients)) [ sleep (* @arg1 $i) [ gp (at (listclients) @i) ] ] "
+seealls = " if (= $spow 1) [ seeall $arg1; sleep (* (listlen (listclients)) $arg1) [ seealls @arg1 ] ] [echo ^"You need to type ^^f3spow = 1^" ] "
+send = [ if (= (mapname) "")[ say "Sending the map *Untitled*..." ][ say Sending the map * (mapname) * ]; sendmap ]
+shuttermod = [1]
+sleeptime = [180]
+spam = [if (= $spampow 0) [say $test; sleep 1 [spam $test] ] ]
+spectate_info = [echo "You have teamkilled to much! You are now spectated."; say "Because I have teamkilled ^f35 ^f0times, I am spectating myself shortly." ; numbertk = 0; spectator 1 ]
+spow = [1]
+startfap = [ masterbate = [ nextweapon ;sleep 100 [ masterbate ] ] ]
+starthide = [ if (= $hideon 0)[errhide][ if (= $countnum 0)[errhide][ fragcount = (getfrags); repeatcount; checkfraghide ]  ] ]
+startname = [ honkname = [ name "HoNk" ;sleep 100 [ name "hOnK" ;sleep 100 [ honkname ] ] ] ]
+stopfap = [ masterbate = [ ] ]
+stopname = [honkname = [name BLAPCK]]
+suicide = [ spectator 1 ;sleep 1 [ spectator 0 ] ]
+t = [26]
+tcount = [0]
+tenbots = [ addbot 1 ; addbot 1 ;addbot 1 ; addbot 1 ; addbot 1 ; addbot 1 ; addbot 1 ; addbot 1 ; addbot ; addbot 1 ]
+test = [spam]
+text_1 = "^f4+"
+text_2 = [text_3]
+text_3 = [text_1 = "^f3+ "; text_2 = text_4; $zQE (concatword "^f0" $zWL "panic button ^f3pushed^f0!" $zWR); zSPECALL ]
+text_4 = [text_1 = "^f4+ "; text_2 = text_3; $zQE (concatword "^f0" $zWL "panic button ^f7released^f0!" $zWR); zUNSPECALL ]
+text_to_say = [Sorry for the teamkill!]
+texts_1 = "^f32 Way Portals Disabled"
+texts_2 = [texts_3]
+texts_3 = [alias texts_1 "^f12 Way Portals Enabled"; alias texts_2 texts_4; echo "Portal Gun is now ^f32 way"; portal2w = 1]
+texts_4 = [alias texts_1 "^f32 Way Portals Disabled"; alias texts_2 texts_3; echo "Portal Gun is now ^f31 way"; portal2w = 0]
+timedparticle = [sleep 1000 [ edittoggle ] ;sleep 5 [ "clearents particles" ] ;sleep 5 [ edittoggle ] ]
+timesdone = [0]
+universaldelta = "^n  do [delta_@(if $editing [ result edit ] [ result game ])_@modifier @arg1]^n"
+uproar = [ startname ;sleep 1 [ honkname ;sleep 2500 [stopname ;sleep 250 [ say ":o)" ] ] ] ]
+warptex = [vshaderparam parallaxscale 0 1 ]
+workdestroy = [ destroysky = [ colorizesky ; sleep 1 [ destroysky ] ] ]
+yopass1 = [ setmaster "qwerty@+49wwww" ]
+z = [13]
+zAC = [$zQX (concatword "^"Unix users need to make sure to have the development version of all libs installed (OpenGL, SDL, SDL_mixer, SDL_image, zlib). The included Makefile can be used to build.^""); $zQX (concatword "hey ac, found this in the zlib license (see F11) :D")]
+zBIND = [$zQE (concatword "^f0" $zWL "Your ^f5" $arg1 "^f0-key is bound to ^f1" (getbind $arg1) "^f0, and in (^f5E^f0)dit-mode to ^f1" (geteditbind $arg1) "^f0, and in specmode to ^f1" (getspecbind $arg1) ",^f0 " $zFM "! :D" $zWR)]
+zBKB = [showgui "Autotk"]
+zBKBE = [domodifier 9]
+zBKCONFILTER = [15615]
+zBKDELTA_EDIT_0 = [if $blendpaintmode [scrollblendbrush $arg1] [editfacewentpush $arg1 1]]
+zBKDELTA_EDIT_2 = [ editfacewentpush $arg1 0 ]
+zBKDELTA_EDIT_3 = [ editfacewentpush $arg1 2 ]
+zBKDELTA_GAME_0 = [ if (= $arg1 1) [ weapon 2 3 5 4 1 6 0 ] [ weapon 4 1 6 2 3 5 0 ] ]
+zBKE = [edittoggle]
+zBKF = [igniteself]
+zBKFLOATSPEED = [100]
+zBKGRIDPOWER = [3]
+zBKLALTE = [hmapedit  1; onrelease [ hmapedit  0]]
+zBKLCTRLE = [passthrough  1; onrelease [ passthrough  0]]
+zBKM = [showcustommaps]
+zBKMOUSE1 = [attack]
+zBKMOUSE2 = [togglezoom]
+zBKMOUSE3 = [weapon]
+zBKN = [cloudy]
+zBKNE = [selentfindall]
+zBKP = [showgui "^f1Portal Gun"]
+zBKPE = [showgui "^f1Portal Gun"]
+zBKSPACE = [jump]
+zCLIENT_LIST = [0 1 4 6]
+zCN = [1]
+zCUSTOMWINGSL = [??? ]
+zCUSTOMWINGSR = [ ???]
+zFLYJUMP = [0]
+zFM = [sir]
+zFMC = [SIR]
+zFMS = "^f1`^f0o^f1`^f07"
+zGENDER = [0]
+zGITHUB = [$zQX (concatword "https://raw.github.com/zombie-crew/zombie-menu/master/zombie.cfg")]
+zKILL = [0]
+zMAXTEXT = [$zQX " 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 220 chars"]
+zMMODELS_EXTREME = [mmodel aftas; mmodel aftas/arvores; mmodel aftas/arvores/arg; mmodel aftas/arvores/arp; mmodel aftas/caixa; mmodel aftas/lampada; mmodel aftas/machina; mmodel aftas/machina/machina1; mmodel aftas/machina/machina2; mmodel ammo; mmodel ammo/bullets; mmodel ammo/cartridges; mmodel ammo/grenades; mmodel ammo/rockets; mmodel ammo/rrounds; mmodel ammo/shells; mmodel angel; mmodel armor; mmodel armor/green; mmodel armor/yellow; mmodel barreldebris; mmodel barreldebris/debris01; mmodel barreldebris/debris02; mmodel barreldebris/debris03; mmodel barreldebris/debris04; mmodel base; mmodel base/blue; mmodel base/neutral; mmodel base/red; mmodel boost; mmodel captaincannon; mmodel captaincannon/armor; mmodel captaincannon/armor/blue; mmodel captaincannon/armor/green; mmodel captaincannon/armor/yellow; mmodel captaincannon/blue; mmodel captaincannon/hudguns; mmodel captaincannon/hudguns/chaing; mmodel captaincannon/hudguns/chaing/blue; mmodel captaincannon/hudguns/chaing/red; mmodel captaincannon/hudguns/fist; mmodel captaincannon/hudguns/fist/blue; mmodel captaincannon/hudguns/fist/red; mmodel captaincannon/hudguns/gl; mmodel captaincannon/hudguns/gl/blue; mmodel captaincannon/hudguns/gl/red; mmodel captaincannon/hudguns/pistol; mmodel captaincannon/hudguns/pistol/blue; mmodel captaincannon/hudguns/pistol/red; mmodel captaincannon/hudguns/rifle; mmodel captaincannon/hudguns/rifle/blue; mmodel captaincannon/hudguns/rifle/red; mmodel captaincannon/hudguns/rocket; mmodel captaincannon/hudguns/rocket/blue; mmodel captaincannon/hudguns/rocket/red; mmodel captaincannon/hudguns/shotg; mmodel captaincannon/hudguns/shotg/blue; mmodel captaincannon/hudguns/shotg/red; mmodel captaincannon/quad; mmodel captaincannon/red; mmodel carrot; mmodel checkpoint; mmodel crow; mmodel dcp; mmodel dcp/barrel; mmodel dcp/bench; mmodel dcp/bin; mmodel dcp/biotank; mmodel dcp/blade_x; mmodel dcp/blade_x/big; mmodel dcp/blade_x/fast; mmodel dcp/blade_x/mid; mmodel dcp/blade_y; mmodel dcp/blade_y/big; mmodel dcp/blade_y/fast; mmodel dcp/bulb; mmodel dcp/candle; mmodel dcp/cart; mmodel dcp/cask; mmodel dcp/cbbox; mmodel dcp/chandelier; mmodel dcp/chest; mmodel dcp/console; mmodel dcp/firebowl; mmodel dcp/firebowl_no_fire; mmodel dcp/grass; mmodel dcp/grate; mmodel dcp/groundlamp; mmodel dcp/hanginlamp; mmodel dcp/insect; mmodel dcp/ivy; mmodel dcp/jumppad2; mmodel dcp/leafs; mmodel dcp/mushroom; mmodel dcp/palette; mmodel dcp/palmtree; mmodel dcp/pillar; mmodel dcp/plant1; mmodel dcp/reed; mmodel dcp/sack; mmodel dcp/smplant; mmodel dcp/streetlamp; mmodel dcp/switch2a; mmodel dcp/thorns; mmodel dcp/tree2; mmodel dcp/tree3; mmodel dcp/turret; mmodel dcp/valve; mmodel dcp/vase; mmodel dcp/vent; mmodel dcp/ventflap; mmodel dcp/waterbowl; mmodel debris; mmodel debris/debris01; mmodel debris/debris02; mmodel debris/debris03; mmodel debris/debris04; mmodel doors; mmodel doors/door_01; mmodel doors/door_02; mmodel doors/door_03; mmodel doors/door_04; mmodel flags; mmodel flags/blue; mmodel flags/neutral; mmodel flags/red; mmodel gibs; mmodel gibs/gib01; mmodel gibs/gib02; mmodel gibs/gib03; mmodel health; mmodel hudguns; mmodel hudguns/chaing; mmodel hudguns/fist; mmodel hudguns/gl; mmodel hudguns/pistol; mmodel hudguns/rifle; mmodel hudguns/rocket; mmodel hudguns/shotg; mmodel inky; mmodel inky/armor; mmodel inky/armor/blue; mmodel inky/armor/green; mmodel inky/armor/yellow; mmodel inky/blue; mmodel inky/hudguns; mmodel inky/hudguns/chaing; mmodel inky/hudguns/chaing/blue; mmodel inky/hudguns/chaing/red; mmodel inky/hudguns/fist; mmodel inky/hudguns/fist/blue; mmodel inky/hudguns/fist/red; mmodel inky/hudguns/gl; mmodel inky/hudguns/gl/blue; mmodel inky/hudguns/gl/red; mmodel inky/hudguns/pistol; mmodel inky/hudguns/pistol/blue; mmodel inky/hudguns/pistol/red; mmodel inky/hudguns/rifle; mmodel inky/hudguns/rifle/blue; mmodel inky/hudguns/rifle/red; mmodel inky/hudguns/rocket; mmodel inky/hudguns/rocket/blue; mmodel inky/hudguns/rocket/red; mmodel inky/hudguns/shotg; mmodel inky/hudguns/shotg/blue; mmodel inky/hudguns/shotg/red; mmodel inky/quad; mmodel inky/red; mmodel makke; mmodel makke/arch; mmodel makke/fork; mmodel makke/moon; mmodel makke/mugs; mmodel makke/mugs/mug01; mmodel makke/mugs/mug02; mmodel makke/mugs/mug03; mmodel makke/nocamp; mmodel makke/planet; mmodel makke/spoon; mmodel makke/strahler; mmodel makke/tricky; mmodel makke/tricky/sign1; mmodel makke/tricky/sign2; mmodel makke/tricky/sign3; mmodel makke/tricky/sign4; mmodel mapmodels; mmodel mapmodels/gibc; mmodel mapmodels/gibh; mmodel mapmodels/justice; mmodel mapmodels/justice/block; mmodel mapmodels/justice/cabinet; mmodel mapmodels/justice/cannon_copter; mmodel mapmodels/justice/cc_screen; mmodel mapmodels/justice/cc_table; mmodel mapmodels/justice/console1; mmodel mapmodels/justice/console1/01; mmodel mapmodels/justice/console1/02; mmodel mapmodels/justice/decals; mmodel mapmodels/justice/decals/01; mmodel mapmodels/justice/decals/02; mmodel mapmodels/justice/exit-sign; mmodel mapmodels/justice/pad; mmodel mapmodels/justice/pad/jump; mmodel mapmodels/justice/pad/teledest; mmodel mapmodels/justice/pad/teleport; mmodel mapmodels/justice/poster; mmodel mapmodels/justice/poster/1; mmodel mapmodels/justice/poster/2; mmodel mapmodels/justice/poster/3; mmodel mapmodels/justice/railings; mmodel mapmodels/justice/railings/01; mmodel mapmodels/justice/railings/02; mmodel mapmodels/justice/switch; mmodel mapmodels/justice/vending; mmodel mapmodels/justice/vent; mmodel mapmodels/nieb; mmodel mapmodels/nieb/clockhand; mmodel mapmodels/nieb/clockhand/long; mmodel mapmodels/nieb/clockhand/short; mmodel mapmodels/nieb/plant01; mmodel mapmodels/nieb/plant02; mmodel mapmodels/nieb/sandcastle; mmodel mapmodels/nieb/shark_sign; mmodel mapmodels/nieb/sign_no-exit; mmodel mapmodels/nieb/torso; mmodel mapmodels/nieb/tree_dead; mmodel mapmodels/nieb/waterfall; mmodel mapmodels/nieb/waterfall/1; mmodel mapmodels/nieb/waterfall/2; mmodel mapmodels/nieb/waterfall/3; mmodel mapmodels/nieb/waterfall/4; mmodel mapmodels/quakish; mmodel mapmodels/quakish/grim_reaper; mmodel mapmodels/quakish/grim_reaper/adam; mmodel mapmodels/quakish/grim_reaper/grim; mmodel mapmodels/quakish/grim_reaper/vehementi; mmodel mapmodels/sitters; mmodel mapmodels/sitters/gothic; mmodel mapmodels/sitters/gothic/skelet1; mmodel mapmodels/sitters/gothic/skelet2; mmodel mapmodels/sitters/gothic/skelet3; mmodel mapmodels/yves_allaire; mmodel mapmodels/yves_allaire/e6; mmodel mapmodels/yves_allaire/e6/e6fanblade; mmodel mapmodels/yves_allaire/e6/e6fanblade/horizontal; mmodel mapmodels/yves_allaire/e6/e6fanblade/vertical; mmodel mapmodels/yves_allaire/e7; mmodel mapmodels/yves_allaire/e7/e7wgrate; mmodel mapmodels/yves_allaire/e7/e7wgrate/32x64_h; mmodel mapmodels/yves_allaire/e7/e7wgrate/32x64_v; mmodel mapmodels/yves_allaire/e7/e7wgrate/64x32_v; mmodel meister; mmodel meister/coclea; mmodel meister/gear; mmodel meister/grinder; mmodel meister/puleggia; mmodel meister/silos; mmodel mitaman; mmodel mitaman/chainlinkfence; mmodel mitaman/door_06; mmodel mitaman/door_07; mmodel mitaman/door_08; mmodel mitaman/door_09; mmodel mitaman/door_10; mmodel mitaman/floorgrate1; mmodel mitaman/floorgrate3; mmodel mitaman/locker1; mmodel mitaman/locker3; mmodel mitaman/plat01; mmodel mitaman/wirefence; mmodel mitaman/woodboard; mmodel monster; mmodel monster/bauul; mmodel monster/bauul/vwep; mmodel monster/goblin; mmodel monster/goblin/vwep; mmodel monster/hellpig; mmodel monster/knight; mmodel monster/knight/vwep; mmodel monster/rat; mmodel monster/rat/vwep; mmodel monster/rhino; mmodel monster/slith; mmodel monster/slith/vwep; mmodel monster/spider; mmodel mrfixit; mmodel mrfixit/armor; mmodel mrfixit/armor/blue; mmodel mrfixit/armor/green; mmodel mrfixit/armor/yellow; mmodel mrfixit/blue; mmodel mrfixit/horns; mmodel mrfixit/hudguns; mmodel mrfixit/hudguns/chaing; mmodel mrfixit/hudguns/chaing/blue; mmodel mrfixit/hudguns/chaing/red; mmodel mrfixit/hudguns/fist; mmodel mrfixit/hudguns/fist/blue; mmodel mrfixit/hudguns/fist/red; mmodel mrfixit/hudguns/gl; mmodel mrfixit/hudguns/gl/blue; mmodel mrfixit/hudguns/gl/red; mmodel mrfixit/hudguns/pistol; mmodel mrfixit/hudguns/pistol/blue; mmodel mrfixit/hudguns/pistol/red; mmodel mrfixit/hudguns/rifle; mmodel mrfixit/hudguns/rifle/blue; mmodel mrfixit/hudguns/rifle/red; mmodel mrfixit/hudguns/rocket; mmodel mrfixit/hudguns/rocket/blue; mmodel mrfixit/hudguns/rocket/red; mmodel mrfixit/hudguns/shotg; mmodel mrfixit/hudguns/shotg/blue; mmodel mrfixit/hudguns/shotg/red; mmodel mrfixit/red; mmodel objects; mmodel objects/axe; mmodel objects/bed01; mmodel objects/bench01; mmodel objects/chair01; mmodel objects/fire; mmodel objects/lamp01; mmodel objects/lamp02; mmodel objects/lantern01; mmodel objects/lantern02; mmodel objects/med_chand; mmodel objects/millblade; mmodel objects/minekart; mmodel objects/oillamp; mmodel objects/sail01; mmodel objects/sign01; mmodel objects/sign01/inn; mmodel objects/sign01/pub; mmodel objects/table01; mmodel objects/torch; mmodel objects/torch_cold; mmodel objects/well_base; mmodel objects/well_roof; mmodel objects/window01; mmodel objects/window02; mmodel objects/window02/window02_1; mmodel objects/window02/window02_2; mmodel objects/woodchop; mmodel ogro; mmodel ogro2; mmodel ogro2/armor; mmodel ogro2/armor/blue; mmodel ogro2/armor/green; mmodel ogro2/armor/yellow; mmodel ogro2/blue; mmodel ogro2/quad; mmodel ogro2/red; mmodel ogro/blue; mmodel ogro/green; mmodel ogro/red; mmodel ogro/vwep; mmodel projectiles; mmodel projectiles/grenade; mmodel projectiles/rocket; mmodel psionic; mmodel psionic/barrel2; mmodel psionic/crate4; mmodel quad; mmodel quadrings; mmodel quadspheres; mmodel rpg; mmodel rpg/characters; mmodel rpg/characters/dragon; mmodel rpg/characters/grizzly; mmodel rpg/characters/horse; mmodel rpg/characters/mman; mmodel rpg/characters/npcman; mmodel rpg/characters/rat; mmodel rpg/characters/wolf; mmodel rpg/objects; mmodel rpg/objects/coin; mmodel shield; mmodel shield/blue; mmodel shield/green; mmodel shield/yellow; mmodel skull; mmodel skull/blue; mmodel skull/red; mmodel snoutx10k; mmodel snoutx10k/armor; mmodel snoutx10k/armor/blue; mmodel snoutx10k/armor/green; mmodel snoutx10k/armor/yellow; mmodel snoutx10k/blue; mmodel snoutx10k/hudguns; mmodel snoutx10k/hudguns/chaing; mmodel snoutx10k/hudguns/chaing/blue; mmodel snoutx10k/hudguns/chaing/red; mmodel snoutx10k/hudguns/fist; mmodel snoutx10k/hudguns/fist/blue; mmodel snoutx10k/hudguns/fist/red; mmodel snoutx10k/hudguns/gl; mmodel snoutx10k/hudguns/gl/blue; mmodel snoutx10k/hudguns/gl/red; mmodel snoutx10k/hudguns/pistol; mmodel snoutx10k/hudguns/pistol/blue; mmodel snoutx10k/hudguns/pistol/red; mmodel snoutx10k/hudguns/rifle; mmodel snoutx10k/hudguns/rifle/blue; mmodel snoutx10k/hudguns/rifle/red; mmodel snoutx10k/hudguns/rocket; mmodel snoutx10k/hudguns/rocket/blue; mmodel snoutx10k/hudguns/rocket/red; mmodel snoutx10k/hudguns/shotg; mmodel snoutx10k/hudguns/shotg/blue; mmodel snoutx10k/hudguns/shotg/red; mmodel snoutx10k/red; mmodel snoutx10k/wings; mmodel steve_e; mmodel steve_e/doors; mmodel steve_e/doors/trapdoor; mmodel steve_e/doors/trapdoor/trapdoor_150; mmodel steve_e/doors/trapdoor/trapdoor_200; mmodel switch1; mmodel switch2; mmodel teleporter; mmodel tentus; mmodel tentus/anvil; mmodel tentus/barrel; mmodel tentus/bombs; mmodel tentus/books; mmodel tentus/books/flat; mmodel tentus/books/multi; mmodel tentus/chains; mmodel tentus/chains/chain; mmodel tentus/chains/curvechain; mmodel tentus/fattree; mmodel tentus/food-drink; mmodel tentus/food-drink/apple; mmodel tentus/food-drink/appleslice; mmodel tentus/food-drink/bowl; mmodel tentus/food-drink/goblet; mmodel tentus/food-drink/meat; mmodel tentus/food-drink/mug; mmodel tentus/food-drink/pear; mmodel tentus/food-drink/pie; mmodel tentus/food-drink/pieslice; mmodel tentus/food-drink/winebottle; mmodel tentus/greenshield; mmodel tentus/hammer; mmodel tentus/key; mmodel tentus/ladder; mmodel tentus/magic; mmodel tentus/magic/spin; mmodel tentus/moneybag; mmodel tentus/pot1; mmodel tentus/redshield; mmodel tentus/rope; mmodel tentus/ropelamp; mmodel tentus/sidebarrel; mmodel tentus/spear; mmodel tentus/woodbench; mmodel tree1; mmodel vegetation; mmodel vegetation/bush01; mmodel vegetation/tree00; mmodel vegetation/tree01; mmodel vegetation/tree02; mmodel vegetation/tree03; mmodel vegetation/tree03_sprite; mmodel vegetation/tree04; mmodel vegetation/tree05; mmodel vegetation/tree06; mmodel vegetation/tree07; mmodel vegetation/tree08; mmodel vegetation/tree09; mmodel vegetation/tree10; mmodel vegetation/tree11; mmodel vegetation/tree12; mmodel vegetation/weeds; mmodel vwep; mmodel vwep/chaing; mmodel vwep/fist; mmodel vwep/gl; mmodel vwep/pistol; mmodel vwep/rifle; mmodel vwep/rocket; mmodel vwep/shotg; mmodel windecker; mmodel windecker/curve; mmodel windecker/stair; mmodel xeno; mmodel xeno/box1; mmodel xeno/box2]
+zNND = [say]
+zNNE = [say]
+zNNECHO = [0]
+zOMBIEKEYS = [
+
+  bind "J" [$zQX "^f0Grrrrrraaaaiiiinnnsssss!! ~~D8"]
+
+
+  bind "K" [edittoggle; edittoggle; kill; if (= $zKILL 0) [$zQX "^f0oh noes! a zombie bit me!! XO"; zKILL = 1; sleep 3000 [zKILL = 0]]]
+
+  bind "L" [$zQX "^f0-.-"]
+
+
+  bind "M" [if (!= $soundvol 0) [zBKSOUNDVOL = $soundvol; soundvol 0; $zQE (concatword "^f0" $zWL "Global soundvolume muted! (^f5/soundvol 0^f0)" $zWR)] [soundvol $zBKSOUNDVOL; $zQE (concatword "^f0" $zWL "Global soundvolume back to " $zBKSOUNDVOL "! (^f5/soundvol " $zBKSOUNDVOL "^f0)" $zWR)]]
+
+
+
+  bind "C"  [if (= $zPORTALS 1) [gridpower 4; zPORTALS = 0; showgui zombie; sleep 5 [cleargui; $zQE (concatword "^f0" $zWL "Portal-Mode  ^f1offline^f0  " $zFM "! o.o (^f0/zPORTALS = 0^f0)" $zWR)]] [gridpower 0.5; zPORTALS = 1; showgui zombie; sleep 5 [cleargui; $zQE (concatword "^f0" $zWL "Portal-Mode  ^f6online^f0  " $zFM "! ^f2o^f0.^f1O^f0 (^f0/zPORTALS = 1^f0)" $zWR)]]]
+]
+zOMBIEKEYS_B = [
+
+  bind "B" [if (= (cleargui) 0) [showgui zombie]]
+  editbind "B" [if (= (cleargui) 0) [showgui zombie]]
+
+
+
+
+  bind "N" [fullscreen (! $fullscreen)]
+  editbind "N" [fullscreen (! $fullscreen)]
+
+
+
+
+
+  editbind lctrl (concat (geteditbind lctrl) "; domodifier 26")
+  "delta_edit_26" = [if (= $arg1 1) [floatspeed (* $floatspeed 2)] [floatspeed (div $floatspeed 2)]]
+
+
+
+
+
+
+
+
+
+
+
+]
+zOMBIEKEYS_P = [bind "P" $text_1 $text_2]
+zPANDALISM = [
+looplist i (listclients) [if (isai $i) [delbot]]; 
+if (!= $ambient 0x191919) [ambient 25 25 25]; 
+
+
+
+
+if (!= $fog 4000) [fog 4000]; 
+if (!= $fogcolour 0x8099B3) [fogcolour 128 153 179];
+
+if (!= $fov 100) [fov 100]; 
+
+
+
+
+if (!= $spinsky 0) [spinsky 0]; 
+
+
+
+
+entfind healthboost; delent; 
+entfind quaddamage; delent; 
+entfind respawnpoint; delent; 
+entfind mapmodel * 132; delent; 
+entfind mapmodel * 178; delent; 
+entfind particles 0 -12352; delent; 
+entfind particles 7 1415; delent; 
+entfind particles 0 -31072; delent; 
+entfind particles 11 1415; delent; 
+entfind particles 11 19072; delent; 
+entfind particles 11 21568; delent; 
+entfind particles 12 4608; delent; 
+entfind particles 12 21568; delent;
+
+
+
+
+loop i 200 [
+	local x
+	x = (+ $i 1900)
+	entfind teleport $x; delent;
+	entfind teledest * $x; delent;
+	entfind teleport $x; delent;
+	entfind teledest * $x; delent;
+	entfind particles 9 284 0 0x7D10 $x; delent;
+	entfind particles 9 284 0 0x00F $x; delent;
+	x = (+ $i 0)
+	entfind particles 9 284 0 0x7D10 $x; delent;
+	entfind particles 9 284 0 0x00F $x; delent;
+]
+
+]
+zPID1 = [1898]
+zPID2 = [1899]
+zPID3 = [1898]
+zPIDCLEANUP1 = [entfind particles 9 284 0 0x7D10 $zPID3; delent; entfind teleport $zPID1; delent; entfind teledest * $zPID2; delent]
+zPIDCLEANUP2 = [entfind particles 9 284 0 0x00F $zPID3; delent; entfind teleport $zPID2; delent; entfind teledest * $zPID1; delent]
+zPIDDELRANGE1 = [if (= $editing 0) [edittoggle]; entselect [(&& (&& (=s 'teleport' (at (entget) 0)) (>= 2100 (at (entget) 1 ))) (<= 1900 (at (entget) 1)))]; delent]
+zPIDDELRANGE2 = [if (= $editing 0) [edittoggle]; entselect [(&& (&& (=s 'teledest' (at (entget) 0)) (>= 2100 (at (entget) 1 ))) (<= 1900 (at (entget) 1)))]; delent]
+zPLAYERS = [yesgoy]
+zPLAYER_LIST = [ 0 1 6]
+zPORTALCOOLDOWN = [0]
+zPORTALS = [0]
+zQE = [echo]
+zQX = [say]
+zSILENCE = [0]
+zSPACE = [ ]
+zSPECALL = [
+                if (= (ismaster (getclientnum)) 1) [
+                        looplist i (listclients) [
+                                if (! (isspectator $i)) [
+                                                                    zLISTCNS = (concat $zLISTCNS $i)
+                                    spectator 1 $i
+                                                            ]
+                        ]
+                        $zQX (concatword "^f0" $zWL "^f1p^f2a^f3n^f4i^f5c ^f6m^f7o^f1d^f2e  ^f3activated!  ^f7o.O^f0 (^f1/rambo 1^f0)" $zWR)
+                        mastermode 2
+                        clearbans
+                ] [
+                        $zQE (concatword "^f0" $zWL "excuse me, " $zFM ", but what exactly were you trying to do there? o.O" $zWR)
+                ]
+        ]
+zSTEALTH = [0]
+zTODO = "  ^f7TO DO:^f0  No Noobs Academy, optimizing cubes!, hospital, floor at OBST, cinema, Terasology Park, town hall/office-interior, subway-entrance, green stripes, props, blender-models, HTML-readme-design, help someone, or maybe one of your ideas?"
+zTODO_DE = "  ^f7ZU TUN:^f0  No Noobs Academy, cubes optimieren!, Krankenhaus, Etage bei OBST, Kino, Terasology Park, Rathaus/Buero-Einrichtung, Ubahn-Eingang, gruene Streifen, Requisiten, Blender-Models, HTML-readme-design, hilf jemandem, oder eine Deiner Ideen?"
+zUNSPECALL = [
+                if (= (ismaster (getclientnum)) 1) [
+                        looplist i $zLISTCNS [
+                                spectator 0 $i
+                        ]
+                        zLISTCNS = []
+                ] [
+                        $zQE (concatword "^f0" $zWL "excuse me, " $zFM ", but what exactly were you trying to do there? o.O" $zWR)
+                ]
+        ]
+zWINGS = [1]
+zWL = [-~+. ]
+zWR = [ .+~-]
+
+complete capture "packages/base" "ogz"
+listcomplete clearents [ 
+  light mapmodel playerstart envmap particles sound
+  shells bullets rockets riflerounds grenades cartridges
+  health healthboost greenarmour yellowarmour quaddamage
+  teleport teledest
+  monster carrot jumppad
+  base respawnpoint
+  spotlight
+  box barrel platform elevator
+  flag
+]
+complete collect "packages/base" "ogz"
+complete coop "packages/base" "ogz"
+complete ctf "packages/base" "ogz"
+complete demo "." "dmo"
+complete dmsp "packages/base" "ogz"
+listcomplete editmat [air water clip glass noclip lava gameclip death alpha]
+complete effic "packages/base" "ogz"
+complete efficcollect "packages/base" "ogz"
+complete efficctf "packages/base" "ogz"
+complete effichold "packages/base" "ogz"
+complete efficprotect "packages/base" "ogz"
+complete efficteam "packages/base" "ogz"
+listcomplete entfind [ 
+  light mapmodel playerstart envmap particles sound
+  shells bullets rockets riflerounds grenades cartridges
+  health healthboost greenarmour yellowarmour quaddamage
+  teleport teledest
+  monster carrot jumppad
+  base respawnpoint
+  spotlight
+  box barrel platform elevator
+  flag
+]
+complete ffa "packages/base" "ogz"
+complete hold "packages/base" "ogz"
+complete importcube "packages/cube" "cgz"
+complete insta "packages/base" "ogz"
+complete instacollect "packages/base" "ogz"
+complete instactf "packages/base" "ogz"
+complete instahold "packages/base" "ogz"
+complete instaprotect "packages/base" "ogz"
+complete instateam "packages/base" "ogz"
+complete map "packages/base" "ogz"
+listcomplete newent [ 
+  light mapmodel playerstart envmap particles sound
+  shells bullets rockets riflerounds grenades cartridges
+  health healthboost greenarmour yellowarmour quaddamage
+  teleport teledest
+  monster carrot jumppad
+  base respawnpoint
+  spotlight
+  box barrel platform elevator
+  flag
+]
+complete protect "packages/base" "ogz"
+complete regencapture "packages/base" "ogz"
+complete sp "packages/base" "ogz"
+complete tac "packages/base" "ogz"
+complete tacteam "packages/base" "ogz"
+complete teamplay "packages/base" "ogz"
